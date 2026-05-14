@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Deepin (rolling).
-# Auto-generated on 2026-05-13T10:13:07.683369
+# Auto-generated on 2026-05-14T10:05:03.720877
 
 DISTRO_NAME="Deepin (rolling)"
 DISTRO_COMMENT="Deepin of rolling from Proot-distro v4.6.0"

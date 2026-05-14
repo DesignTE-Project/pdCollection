@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Ubuntu (jammy).
-# Auto-generated on 2026-05-13T10:13:07.682949
+# Auto-generated on 2026-05-14T10:05:03.720434
 
 DISTRO_NAME="Ubuntu (jammy)"
 DISTRO_COMMENT="Ubuntu of jammy from Proot-distro v4.11.0"
