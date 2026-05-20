@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Alpine (questing).
-# Auto-generated on 2026-05-19T10:52:55.802998
+# Auto-generated on 2026-05-20T10:40:34.677565
 
 DISTRO_NAME="Alpine (questing)"
 DISTRO_COMMENT="Alpine of questing from Proot-distro v4.29.0"

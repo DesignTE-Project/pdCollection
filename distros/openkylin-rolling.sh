@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Openkylin (rolling).
-# Auto-generated on 2026-05-19T10:52:55.804944
+# Auto-generated on 2026-05-20T10:40:34.679558
 
 DISTRO_NAME="Openkylin (rolling)"
 DISTRO_COMMENT="Openkylin of rolling from Proot-distro v4.6.0"

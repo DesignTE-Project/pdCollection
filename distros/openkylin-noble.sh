@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Openkylin (noble).
-# Auto-generated on 2026-05-19T10:52:55.804487
+# Auto-generated on 2026-05-20T10:40:34.679096
 
 DISTRO_NAME="Openkylin (noble)"
 DISTRO_COMMENT="Openkylin of noble from Proot-distro v4.10.0"

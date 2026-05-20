@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Ubuntu (mantic).
-# Auto-generated on 2026-05-19T10:52:55.804597
+# Auto-generated on 2026-05-20T10:40:34.679209
 
 DISTRO_NAME="Ubuntu (mantic)"
 DISTRO_COMMENT="Ubuntu of mantic from Proot-distro v4.8.0"

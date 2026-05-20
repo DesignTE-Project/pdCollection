@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Fedora (bookworm).
-# Auto-generated on 2026-05-19T10:52:55.804192
+# Auto-generated on 2026-05-20T10:40:34.678768
 
 DISTRO_NAME="Fedora (bookworm)"
 DISTRO_COMMENT="Fedora of bookworm from Proot-distro v4.17.3"
