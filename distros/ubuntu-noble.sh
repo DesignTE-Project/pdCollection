@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Ubuntu (noble).
-# Auto-generated on 2026-05-21T10:57:05.075139
+# Auto-generated on 2026-05-22T10:40:20.298884
 
 DISTRO_NAME="Ubuntu (noble)"
 DISTRO_COMMENT="Ubuntu of noble from Proot-distro v4.18.0"

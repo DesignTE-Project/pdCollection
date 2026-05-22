@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Ubuntu (focal).
-# Auto-generated on 2026-05-21T10:57:05.075567
+# Auto-generated on 2026-05-22T10:40:20.299497
 
 DISTRO_NAME="Ubuntu (focal)"
 DISTRO_COMMENT="Ubuntu of focal from Proot-distro v4.8.0"
