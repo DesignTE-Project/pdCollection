@@ -1,13 +1,13 @@
 #!/bin/bash
 # This is a distribution plug-in for Void (rolling).
-# Auto-generated on 2026-05-23T09:30:46.241582
+# Auto-generated on 2026-05-24T09:48:05.548908
 
 DISTRO_NAME="Void (rolling)"
 DISTRO_COMMENT="Void of rolling from Proot-distro v4.22.1"
 
-TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v3.18.1/void-aarch64-pd-v3.18.1.tar.xz"
-TARBALL_SHA256['aarch64']="a2f17acfc49e6f1a6f2d121cb6f69e5d64ff3bc642364939acd5eba5738c4467"
-TARBALL_URL['arm']="https://github.com/termux/proot-distro/releases/download/v3.18.1/void-arm-pd-v3.18.1.tar.xz"
-TARBALL_SHA256['arm']="aa2d01e8e383ea65374ae70f6ad47e63ea93ab44c4c6580cb138f7fae354dbae"
-TARBALL_URL['i686']="https://github.com/termux/proot-distro/releases/download/v3.18.1/void-i686-pd-v3.18.1.tar.xz"
-TARBALL_SHA256['i686']="5dd0d58ee4abde72e68137c10d5b0a6866a9ec2d88d9f834bc56864cfc96c662"
+TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v4.6.0/void-aarch64-pd-v4.6.0.tar.xz"
+TARBALL_SHA256['aarch64']="423c73d0b3767477da5d763f01dfb1a8e5f8148468bcb0c86ca365a15dfeadc1"
+TARBALL_URL['arm']="https://github.com/termux/proot-distro/releases/download/v4.6.0/void-arm-pd-v4.6.0.tar.xz"
+TARBALL_SHA256['arm']="728af450f28e4a562c8f7f57890aa0417b749ab5766c1107a9b57f075781f141"
+TARBALL_URL['i686']="https://github.com/termux/proot-distro/releases/download/v4.6.0/void-i686-pd-v4.6.0.tar.xz"
+TARBALL_SHA256['i686']="8fa3b582ebf6c06603b975f1f7a95bac0d0c971ce79caae4c68fd9b9dc39fd1e"
