@@ -1,12 +1,12 @@
 #!/bin/bash
 # This is a distribution plug-in for Fedora (rolling).
-# Auto-generated on 2026-05-24T09:48:05.550070
+# Auto-generated on 2026-05-25T11:42:22.112262
 
 DISTRO_NAME="Fedora (rolling)"
 DISTRO_COMMENT="Fedora of rolling from Proot-distro v4.6.0"
 
-TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v4.0.2/fedora-aarch64-pd-v4.0.2.tar.xz"
-TARBALL_SHA256['aarch64']="339777a5ab14212b7541d1289aef33540c88a9a247035ba05144bd8e58903b84"
+TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v4.6.0/fedora-aarch64-pd-v4.6.0.tar.xz"
+TARBALL_SHA256['aarch64']="920caf3290ddaf9347de51ccadb0b6391c0244286072a6664fb1600eee360b9c"
 
 distro_setup() {
 	# Fix environment variables on login or su.
