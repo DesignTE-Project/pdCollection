@@ -1,9 +1,9 @@
 #!/bin/bash
 # This is a distribution plug-in for Manjaro (rolling).
-# Auto-generated on 2026-06-01T13:26:53.523799
+# Auto-generated on 2026-06-02T11:56:23.563799
 
 DISTRO_NAME="Manjaro (rolling)"
 DISTRO_COMMENT="Manjaro of rolling from Proot-distro v4.34.2"
 
-TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v4.6.0/manjaro-aarch64-pd-v4.6.0.tar.xz"
-TARBALL_SHA256['aarch64']="54125f308bfe4cb30fedae290f4b276e00f331db89fdebb607cf120a5a72feb2"
+TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v4.14.1/manjaro-aarch64-pd-v4.14.1.tar.xz"
+TARBALL_SHA256['aarch64']="4045baff1c137a6f37398c99f415e7bcaec9afdca2b8ed7d9045cebedc16f3a0"

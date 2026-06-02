@@ -1,13 +1,13 @@
 #!/bin/bash
 # This is a distribution plug-in for Archlinux (rolling).
-# Auto-generated on 2026-06-01T13:26:53.523705
+# Auto-generated on 2026-06-02T11:56:23.563712
 
 DISTRO_NAME="Archlinux (rolling)"
 DISTRO_COMMENT="Archlinux of rolling from Proot-distro v4.34.2"
 
-TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v4.5.0/archlinux-aarch64-pd-v4.5.0.tar.xz"
-TARBALL_SHA256['aarch64']="fd4756ae5ecad0bf7bbd8eb8d3d76cd013ee74a0a41f4f92ec082aba5f346269"
-TARBALL_URL['arm']="https://github.com/termux/proot-distro/releases/download/v4.5.0/archlinux-arm-pd-v4.5.0.tar.xz"
-TARBALL_SHA256['arm']="73c3ee3b5fbe31fffa39587ad501862e7a173304ab235eb90ee9712967e6ce4b"
+TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v4.17.3/archlinux-aarch64-pd-v4.17.3.tar.xz"
+TARBALL_SHA256['aarch64']="dc56b998ffa2663209417396c8d70caf87c8052acf41e9a2c6daf24cbd181533"
+TARBALL_URL['arm']="https://github.com/termux/proot-distro/releases/download/v4.17.3/archlinux-arm-pd-v4.17.3.tar.xz"
+TARBALL_SHA256['arm']="4b698018ded0656e17c0867b97b53cc32be5906c0f37e02ab499c65d5f12d439"
 TARBALL_URL['i686']="https://github.com/termux/proot-distro/releases/download/v4.17.3/archlinux-i686-pd-v4.17.3.tar.xz"
 TARBALL_SHA256['i686']="787d43c21fae2c6efe843a324ff2875fc654fe8475020deb8678c224967f29af"
