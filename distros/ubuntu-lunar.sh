@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Ubuntu (lunar).
-# Auto-generated on 2026-06-05T11:17:57.111868
+# Auto-generated on 2026-06-06T09:52:18.344340
 
 DISTRO_NAME="Ubuntu (lunar)"
 DISTRO_COMMENT="Ubuntu of lunar from Proot-distro v4.7.0"
