@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Opensuse (16).
-# Auto-generated on 2026-06-07T10:19:49.600590
+# Auto-generated on 2026-06-08T12:19:20.552717
 
 DISTRO_NAME="Opensuse (16)"
 DISTRO_COMMENT="Opensuse of 16 from Proot-distro v4.31.0"

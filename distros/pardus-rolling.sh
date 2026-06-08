@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Pardus (rolling).
-# Auto-generated on 2026-06-07T10:19:49.601158
+# Auto-generated on 2026-06-08T12:19:20.553476
 
 DISTRO_NAME="Pardus (rolling)"
 DISTRO_COMMENT="Pardus of rolling from Proot-distro v4.29.0"
