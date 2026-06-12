@@ -1,14 +1,14 @@
 #!/bin/bash
 # This is a distribution plug-in for Ubuntu (noble).
-# Auto-generated on 2026-06-11T12:01:50.164007
+# Auto-generated on 2026-06-12T11:33:58.993389
 
 DISTRO_NAME="Ubuntu (noble)"
 DISTRO_COMMENT="Ubuntu of noble from Proot-distro v4.18.0"
 
-TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v4.11.0/ubuntu-noble-aarch64-pd-v4.11.0.tar.xz"
-TARBALL_SHA256['aarch64']="a8883244a7031559a2bd8dc16b7d8afc947930b611819d8a28a09545097a6ba5"
-TARBALL_URL['arm']="https://github.com/termux/proot-distro/releases/download/v4.11.0/ubuntu-noble-arm-pd-v4.11.0.tar.xz"
-TARBALL_SHA256['arm']="dc5478e96f648e868d68c15c400338460088255d5d964bdfa33e5456ceea54ae"
+TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v4.17.3/ubuntu-noble-aarch64-pd-v4.17.3.tar.xz"
+TARBALL_SHA256['aarch64']="81ac0fb0d16ded12ab11cede62f67b875ff56f9fa1aa9eb786415c3ec5c477d2"
+TARBALL_URL['arm']="https://github.com/termux/proot-distro/releases/download/v4.17.3/ubuntu-noble-arm-pd-v4.17.3.tar.xz"
+TARBALL_SHA256['arm']="611f39e8b942202d14608026ef3d674b35a1fea6e780dbaa5ca001cbb63d04c0"
 
 distro_setup() {
 	# Configure en_US.UTF-8 locale.
