@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Void (plucky).
-# Auto-generated on 2026-06-15T13:45:03.487123
+# Auto-generated on 2026-06-16T12:44:25.583526
 
 DISTRO_NAME="Void (plucky)"
 DISTRO_COMMENT="Void of plucky from Proot-distro v4.29.0"
