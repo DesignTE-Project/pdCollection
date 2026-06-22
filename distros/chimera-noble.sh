@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Chimera (noble).
-# Auto-generated on 2026-06-21T10:57:57.412793
+# Auto-generated on 2026-06-22T13:25:12.722165
 
 DISTRO_NAME="Chimera (noble)"
 DISTRO_COMMENT="Chimera of noble from Proot-distro v4.16.0"

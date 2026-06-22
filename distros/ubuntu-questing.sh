@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Ubuntu (questing).
-# Auto-generated on 2026-06-21T10:57:57.411715
+# Auto-generated on 2026-06-22T13:25:12.720703
 
 DISTRO_NAME="Ubuntu (questing)"
 DISTRO_COMMENT="Ubuntu of questing from Proot-distro v4.30.1"
