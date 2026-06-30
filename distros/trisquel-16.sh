@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Trisquel (16).
-# Auto-generated on 2026-06-29T12:21:24.386596
+# Auto-generated on 2026-06-30T10:48:02.914539
 
 DISTRO_NAME="Trisquel (16)"
 DISTRO_COMMENT="Trisquel of 16 from Proot-distro v4.31.0"
