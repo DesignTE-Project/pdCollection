@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Alpine (noble).
-# Auto-generated on 2026-07-15T09:47:42.866866
+# Auto-generated on 2026-07-16T09:55:00.150057
 
 DISTRO_NAME="Alpine (noble)"
 DISTRO_COMMENT="Alpine of noble from Proot-distro v4.17.3"
