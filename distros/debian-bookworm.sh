@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Debian (bookworm).
-# Auto-generated on 2026-07-17T09:44:44.698020
+# Auto-generated on 2026-07-18T09:14:06.337295
 
 DISTRO_NAME="Debian (bookworm)"
 DISTRO_COMMENT="Debian of bookworm from Proot-distro v4.17.3"

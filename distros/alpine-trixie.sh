@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Alpine (trixie).
-# Auto-generated on 2026-07-17T09:44:44.697604
+# Auto-generated on 2026-07-18T09:14:06.336866
 
 DISTRO_NAME="Alpine (trixie)"
 DISTRO_COMMENT="Alpine of trixie from Proot-distro v4.25.0"
