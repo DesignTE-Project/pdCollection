@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Fedora (plucky).
-# Auto-generated on 2026-08-02T09:46:42.638261
+# Auto-generated on 2026-08-03T11:11:11.577364
 
 DISTRO_NAME="Fedora (plucky)"
 DISTRO_COMMENT="Fedora of plucky from Proot-distro v4.27.0"
