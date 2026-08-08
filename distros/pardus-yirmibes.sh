@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Pardus (yirmibes).
-# Auto-generated on 2026-08-07T08:44:40.572018
+# Auto-generated on 2026-08-08T08:25:24.645632
 
 DISTRO_NAME="Pardus (yirmibes)"
 DISTRO_COMMENT="Pardus of yirmibes from Proot-distro v4.33.2"
