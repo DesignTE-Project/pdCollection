@@ -1,11 +1,11 @@
 #!/bin/bash
 # This is a distribution plug-in for Pardus (rolling).
-# Auto-generated on 2026-08-10T09:03:57.066843
+# Auto-generated on 2026-08-11T08:41:32.933396
 
 DISTRO_NAME="Pardus (rolling)"
 DISTRO_COMMENT="Pardus of rolling from Proot-distro v4.29.0"
 
-TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v4.18.0/pardus-aarch64-pd-v4.18.0.tar.xz"
-TARBALL_SHA256['aarch64']="b4dccbb4a3f8263fdbae45a73c685bf27d9ab2819f17d4939c9988f759f88d3b"
-TARBALL_URL['i686']="https://github.com/termux/proot-distro/releases/download/v4.18.0/pardus-i686-pd-v4.18.0.tar.xz"
-TARBALL_SHA256['i686']="271fd6b6e80f840566bbf5dda0fca5f4d35b24e5c679d895bc4c35422c8bee06"
+TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v4.29.0/pardus-aarch64-pd-v4.29.0.tar.xz"
+TARBALL_SHA256['aarch64']="623794c3831f7bdd1e6cb644e0ab15ae249c2122cc491b8674e63265fc71bcd8"
+TARBALL_URL['i686']="https://github.com/termux/proot-distro/releases/download/v4.29.0/pardus-i686-pd-v4.29.0.tar.xz"
+TARBALL_SHA256['i686']="455783735608c4bbb8d760820afc157d7fd2ecef768e4f111695e2a72736ff38"
