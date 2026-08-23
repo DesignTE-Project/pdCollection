@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Fedora (43).
-# Auto-generated on 2026-08-22T08:14:41.607401
+# Auto-generated on 2026-08-23T08:15:34.689485
 
 DISTRO_NAME="Fedora (43)"
 DISTRO_COMMENT="Fedora of 43 from Proot-distro v4.31.0"
