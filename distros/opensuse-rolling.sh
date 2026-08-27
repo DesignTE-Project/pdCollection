@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Opensuse (rolling).
-# Auto-generated on 2026-08-26T08:27:54.228293
+# Auto-generated on 2026-08-27T18:27:25.314934
 
 DISTRO_NAME="Opensuse (rolling)"
 DISTRO_COMMENT="Opensuse of rolling from Proot-distro v4.34.2"
