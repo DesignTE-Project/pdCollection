@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Fedora (trixie).
-# Auto-generated on 2026-09-13T12:53:25.383733
+# Auto-generated on 2026-09-14T14:31:52.332235
 
 DISTRO_NAME="Fedora (trixie)"
 DISTRO_COMMENT="Fedora of trixie from Proot-distro v4.29.0"

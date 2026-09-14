@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Rocky (plucky).
-# Auto-generated on 2026-09-13T12:53:25.384055
+# Auto-generated on 2026-09-14T14:31:52.332561
 
 DISTRO_NAME="Rocky (plucky)"
 DISTRO_COMMENT="Rocky of plucky from Proot-distro v4.28.0"
