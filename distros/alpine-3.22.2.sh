@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Alpine (3.22.2).
-# Auto-generated on 2026-09-22T12:53:57.259754
+# Auto-generated on 2026-09-23T13:05:39.627247
 
 DISTRO_NAME="Alpine (3.22.2)"
 DISTRO_COMMENT="Alpine of 3.22.2 from Proot-distro v4.30.1"
