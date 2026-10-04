@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Oraclelinux (16).
-# Auto-generated on 2026-10-03T12:47:46.952120
+# Auto-generated on 2026-10-04T13:31:23.451987
 
 DISTRO_NAME="Oraclelinux (16)"
 DISTRO_COMMENT="Oraclelinux of 16 from Proot-distro v4.31.0"

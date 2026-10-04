@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Debian (trixie).
-# Auto-generated on 2026-10-03T12:47:46.952608
+# Auto-generated on 2026-10-04T13:31:23.452186
 
 DISTRO_NAME="Debian (trixie)"
 DISTRO_COMMENT="Debian of trixie from Proot-distro v4.29.0"
