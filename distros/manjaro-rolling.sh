@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Manjaro (rolling).
-# Auto-generated on 2026-10-26T14:37:36.739575
+# Auto-generated on 2026-10-27T13:41:26.829432
 
 DISTRO_NAME="Manjaro (rolling)"
 DISTRO_COMMENT="Manjaro of rolling from Proot-distro v4.34.2"
