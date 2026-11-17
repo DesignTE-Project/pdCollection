@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a distribution plug-in for Archlinux (rolling).
-# Auto-generated on 2026-11-16T17:35:13.824253
+# Auto-generated on 2026-11-17T17:08:24.146219
 
 DISTRO_NAME="Archlinux (rolling)"
 DISTRO_COMMENT="Archlinux of rolling from Proot-distro v4.34.2"
